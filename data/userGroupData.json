@@ -1,0 +1,90 @@
+{
+  "users": [],
+  "groups": [],
+  "antilink": {
+    "120363421585612609@g.us": {
+      "enabled": true,
+      "action": "kick"
+    },
+    "120363413671883341@g.us": {
+      "enabled": true,
+      "action": "kick"
+    },
+    "120363420016780530@g.us": {
+      "enabled": true,
+      "action": "warn"
+    },
+    "120363420981793980@g.us": {
+      "enabled": true,
+      "action": "kick"
+    },
+    "120363404194304910@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363399746335831@g.us": {
+      "enabled": true,
+      "action": "kick"
+    },
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363418681930874@g.us": {
+      "enabled": true,
+      "action": "delete"
+    }
+  },
+  "antibadword": {},
+  "warnings": {},
+  "sudo": [
+    "9629859@s.whatsapp.net",
+    "03226070203@s.whatsapp.net"
+  ],
+  "welcome": {
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "message": "𝐡𝐞𝐥𝐥𝐨 𝐩𝐨𝐨𝐤𝐢𝐞\n         -----> @mention <----\n         𝐘𝐨𝐮𝐫 𝐚𝐫𝐞 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐡𝐞𝐫𝐞\n          𝐭𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐩𝐥𝐚𝐜𝐞 𝐟𝐨𝐫 𝐚𝐧𝐢𝐦𝐞              \n          𝐜𝐨𝐧𝐯𝐞𝐫𝐬𝐢𝐨𝐧𝐬 𝐡𝐨𝐩𝐞 𝐲𝐨𝐮   \n          𝐞𝐧𝐣𝐨𝐲 𝐲𝐨𝐮𝐫 𝐭𝐢𝐦𝐞 𝐡𝐞𝐫𝐞\n__________________________________\nᴀʟsᴏ ᴅᴏɴ'ᴛ ғᴏʀɢᴏᴛ ᴛᴏ  ɪɴᴛʀᴏᴅᴜᴄᴇ ʏᴏᴜʀ sᴇʟғ\"\n> *_Full Introduction_*\n> *_Name:_*....\n> *_Age:_*......\n> *_Nationality:_*......\n> *_Gender:_*.......\n> *Also read the rule of the group and strictly follow them*",
+      "channelId": "120363419270392244@newsletter"
+    },
+    "120363421585612609@g.us": {
+      "enabled": true,
+      "message": "A warm welcome to our community! We're thrilled to have you on board. Feel free to introduce yourself, share your interests, and get comfortable. We're excited to see what you'll bring to the table! 😊👋",
+      "channelId": "120363419270392244@newsletter"
+    },
+    "120363413671883341@g.us": {
+      "enabled": true,
+      "message": "on",
+      "channelId": "120363419270392244@newsletter"
+    },
+    "120363420986528389@g.us": {
+      "enabled": true,
+      "message": "Welcome {user} to {group}! 🎉",
+      "channelId": "120363419270392244@newsletter"
+    }
+  },
+  "goodbye": {
+    "120363413671883341@g.us": {
+      "enabled": true,
+      "message": "Goodbye {user} 👋",
+      "channelId": "120363419270392244@newsletter"
+    },
+    "120363404194304910@g.us": {
+      "enabled": true,
+      "message": "group name",
+      "channelId": "120363419270392244@newsletter"
+    }
+  },
+  "chatbot": {
+    "120363404194304910@g.us": true,
+    "120363413671883341@g.us": true,
+    "120363420986528389@g.us": true
+  },
+  "autoReaction": true,
+  "antitag": {
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "action": "delete"
+    }
+  }
+}
